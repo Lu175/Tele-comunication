@@ -1,8 +1,7 @@
 # Plotting datarate
 + Use Hata model for Pathloss.
 + 5x5 km toymodel (get 40000 samples for data)
-+ 10 basestation
-  (Each basestation has 49 dBm TX power)
++ 10 basestation (each basestation has 49 dBm TX power)
 
 
 * * *
