@@ -20,6 +20,9 @@
 > datarate 하위 1000개 samples position<br/>
 <img src="img/datarate_Hata_03.PNG" width="50%" height="50%"></img><br/>
 
+> Result Table<br/>
+<img src="img/datarate_Hata_04.PNG" width="100%" height="100%"></img><br/>
+
 
 ## Code
 > datarate_Hata.m
