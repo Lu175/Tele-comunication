@@ -1,6 +1,6 @@
 # Plotting datarate
 + Use Hata model for Pathloss.
-+ 5x5 km toymodel
++ 5x5 km toymodel (get 40000 samples for data)
 + 10 basestation
   (Each basestation has 49 dBm TX power)
 
@@ -14,7 +14,7 @@
 > contourf()<br/>
 <img src="img/datarate_Hata_01.PNG" width="50%" height="50%"></img><br/>
 
-> SINR CDF by 10000 samples<br/>
+> SINR CDF by 40000 samples<br/>
 <img src="img/datarate_Hata_02.PNG" width="50%" height="50%"></img><br/>
 
 > datarate 하위 1000개 samples position<br/>
